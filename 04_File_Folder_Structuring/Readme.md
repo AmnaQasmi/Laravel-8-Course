@@ -103,3 +103,11 @@ This `phpUnit.xml file` is useful for the right unit test cases.
 ### Readme `Readme.md file`
 
 This `Readme.md file` is Where we can write the descripsion of the project.
+
+### Server.php `server.php file`
+
+This `server.php file` is use to rewrite some functionalities of the apache server and sometime the other servers also.
+
+### Vite.config.js `vite.config.js file`
+
+This `vite.config.js file` is useful for making the bundling of the public file and this is only useful when we are just using front-end framework like Vue, React.js 
